@@ -17,7 +17,7 @@ public class ContaTerminal {
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Olá usuário! Seja bem-vindo ao Nosso Banco!");
-        System.out.println("Por favor, digite o número da Agência !");1325
+        System.out.println("Por favor, digite o número da Agência !");
         String agencia = scan.nextLine();
 
         System.out.println("Digite o seu nome: ");
